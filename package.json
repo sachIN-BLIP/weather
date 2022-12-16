@@ -1,5 +1,6 @@
 {
   "name": "app_sachin",
+  "homepage": "https://sachIN-BLIP.github.io/weather"
   "version": "0.1.0",
   "private": true,
   "dependencies": {
